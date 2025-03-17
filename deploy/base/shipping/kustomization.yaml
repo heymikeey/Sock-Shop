@@ -1,0 +1,3 @@
+resources:
+  - 23-shipping-dep.yaml
+  - 24-shipping-svc.yaml

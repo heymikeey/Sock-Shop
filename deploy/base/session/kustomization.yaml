@@ -1,0 +1,3 @@
+resources:
+  - 21-session-db-dep.yaml
+  - 22-session-db-svc.yaml

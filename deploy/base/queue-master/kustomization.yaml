@@ -1,0 +1,3 @@
+resources:
+  - 17-queue-master-dep.yaml
+  - 18-queue-master-svc.yaml

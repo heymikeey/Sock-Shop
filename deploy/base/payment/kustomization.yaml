@@ -1,0 +1,3 @@
+resources:
+  - 15-payment-dep.yaml
+  - 16-payment-svc.yaml

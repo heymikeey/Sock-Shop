@@ -1,0 +1,3 @@
+resources:
+  - 19-rabbitmq-dep.yaml
+  - 20-rabbitmq-svc.yaml

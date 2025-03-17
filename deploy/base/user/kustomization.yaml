@@ -1,0 +1,5 @@
+resources:
+  - 25-user-dep.yaml
+  - 26-user-svc.yaml
+  - 27-user-db-dep.yaml
+  - 28-user-db-svc.yaml
