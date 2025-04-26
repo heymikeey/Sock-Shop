@@ -1,0 +1,15 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: sock-shop
+  namespace: argocd
+  finalizers:
+  - resources-finalizer.argocd.argoproj.io
+spec:
+  destination:
+    namespace: argocd
+  project: default
+  source:
+    path: deploy/overlays/dev
+    repoURL: https://github.com/heymikeey/Sock-Shop
+    targetRevision: HEAD
