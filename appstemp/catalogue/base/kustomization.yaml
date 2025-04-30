@@ -1,0 +1,5 @@
+resources:
+  - 05-catalogue-dep.yaml
+  - 06-catalogue-svc.yaml
+  - 07-catalogue-db-dep.yaml
+  - 08-catalogue-db-svc.yaml
