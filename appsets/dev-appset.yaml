@@ -12,7 +12,7 @@ spec:
       repoURL: https://github.com/heymikeey/Sock-Shop.git
       revision: HEAD
       directories:
-      - path: apps/*/overlays/dev    
+      - path: apps_/*/overlays/dev    
   template:      
     metadata:
       name: '{{index .path.segments 1}}-{{index .path.segments 3}}' 
