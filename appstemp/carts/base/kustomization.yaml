@@ -1,5 +1,0 @@
-resources:
-  - 01-carts-dep.yaml
-  - 02-carts-svc.yaml
-  - 03-carts-db-dep.yaml
-  - 04-carts-db-svc.yaml
