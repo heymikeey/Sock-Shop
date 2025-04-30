@@ -1,11 +1,2 @@
 resources:
-  - ../../base/carts
   - ../../base/catalogue
-  - ../../base/frontend
-  - ../../base/orders
-  - ../../base/payment
-  - ../../base/queue-master
-  - ../../base/rabbitmq
-  - ../../base/session
-  - ../../base/shipping
-  - ../../base/user
