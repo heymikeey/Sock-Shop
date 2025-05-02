@@ -1,3 +1,4 @@
 resources:
   - 09-front-end-dep.yaml
   - 10-front-end-svc.yaml
+  - 10-front-end-ingress.yaml
